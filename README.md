@@ -1,3 +1,4 @@
+![Captura de tela 2025-03-04 174520](https://github.com/user-attachments/assets/348fdecf-e709-44f3-aa29-0a47cd3b2528)
 
 ## Como Executar
 
